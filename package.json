@@ -1,0 +1,24 @@
+{
+  "name": "nastanford.github.io",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nastanford/nastanford.github.io.git"
+  },
+  "author": "Nathan Stanford Sr",
+  "license": "",
+  "bugs": {
+    "url": "https://github.com/nastanford/nastanford.github.io/issues"
+  },
+  "homepage": "https://github.com/nastanford/nastanford.github.io#readme",
+  "dependencies": {
+    "autoprefixer": "^10.4.12",
+    "bootstrap": "^5.2.1",
+    "sass": "^1.55.0"
+  }
+}
