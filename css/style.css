@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css?family=Lobster');
+
+body {
+    background-color: #336699;
+    font-family: 'Lobster', cursive;
+    font-size: 20px;
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
+
+.logo {
+  font-family: 'Lobster';
+  font-size: 1.8rem;
+}
+
