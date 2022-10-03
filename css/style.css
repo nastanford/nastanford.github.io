@@ -2,7 +2,6 @@
 
 body {
     background-color: #336699;
-    font-family: 'Lobster', cursive;
     font-size: 20px;
     color: #333;
     margin: 0;
@@ -14,3 +13,24 @@ body {
   font-size: 1.8rem;
 }
 
+.logofont {
+  font-family: 'Lobster';
+  font-size: 1.8rem;
+}
+
+.button {
+  background-color: #336699;
+  border: none;
+  color: white;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 25px;
+}
+
+.button:hover {
+  background-color: #0C4160;
+}
